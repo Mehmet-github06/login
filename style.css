@@ -23,7 +23,15 @@ body {
     color: #fff;
     border-radius: 10px;
     padding: 30px 40px;
+    /* outline: 10px solid red; */
 }
+
+.wrapper:hover{
+    outline: 5px solid #00f000 ;
+    /* outline-offset: 1.5rem; */
+
+}
+
 .wrapper h1{
     font-size: 36px;
 text-align: center;
