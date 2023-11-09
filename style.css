@@ -29,6 +29,7 @@ body {
 
 .wrapper:hover{
     outline: 5px solid #00f000 ;
+
     /* outline-offset: 1.5rem; */
 
 }
